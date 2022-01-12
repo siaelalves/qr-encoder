@@ -1,0 +1,13 @@
+C:\Users\Siael\Projetos\VB\QR_Encoder\bin\Debug\QR_Encoder.exe.config
+C:\Users\Siael\Projetos\VB\QR_Encoder\bin\Debug\QR_Encoder.exe
+C:\Users\Siael\Projetos\VB\QR_Encoder\bin\Debug\QR_Encoder.pdb
+C:\Users\Siael\Projetos\VB\QR_Encoder\bin\Debug\QR_Encoder.xml
+C:\Users\Siael\Projetos\VB\QR_Encoder\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Siael\Projetos\VB\QR_Encoder\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Siael\Projetos\VB\QR_Encoder\obj\Debug\QR_Encoder.vbprojResolveAssemblyReference.cache
+C:\Users\Siael\Projetos\VB\QR_Encoder\obj\Debug\QR_Encoder.Form1.resources
+C:\Users\Siael\Projetos\VB\QR_Encoder\obj\Debug\QR_Encoder.Resources.resources
+C:\Users\Siael\Projetos\VB\QR_Encoder\obj\Debug\QR_Encoder.vbproj.GenerateResource.Cache
+C:\Users\Siael\Projetos\VB\QR_Encoder\obj\Debug\QR_Encoder.exe
+C:\Users\Siael\Projetos\VB\QR_Encoder\obj\Debug\QR_Encoder.xml
+C:\Users\Siael\Projetos\VB\QR_Encoder\obj\Debug\QR_Encoder.pdb
